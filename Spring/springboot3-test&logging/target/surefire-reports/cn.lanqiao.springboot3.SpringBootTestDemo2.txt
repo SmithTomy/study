@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cn.lanqiao.springboot3.SpringBootTestDemo2
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.865 s - in cn.lanqiao.springboot3.SpringBootTestDemo2
